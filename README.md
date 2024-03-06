@@ -1,4 +1,4 @@
-# admob-ads-sdk
+# alien-ads-sdk
 <p>A library for displaying ads</p>
 <p>Ads Sdk list:</p>
   <ul>
