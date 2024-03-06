@@ -119,7 +119,7 @@ public class AdNetwork {
 
                     case ALIEN:
                     case ALIEN_ADS:
-                        PropsAdsManagement.initializeAdsMapping(activity);
+                        PropsAdsManagement.initializeSDAdsMapping(activity);
                         break;
 
                     default:

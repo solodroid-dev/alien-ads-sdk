@@ -36,7 +36,7 @@ dependencies {
 
     //Primary Ad Networks
     implementation 'com.google.android.gms:play-services-ads:22.6.0'
-    implementation 'com.github.ronaldwm2:alienads_propssdk:1.0.2'
+    implementation 'com.github.ronaldwm2:alienads_propssdk:1.0.5'
 
     //GDPR
     implementation 'com.google.android.ump:user-messaging-platform:2.2.0'
