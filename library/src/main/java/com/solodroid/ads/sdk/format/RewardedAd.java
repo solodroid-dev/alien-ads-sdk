@@ -4,8 +4,6 @@ import static com.solodroid.ads.sdk.util.Constant.ADMOB;
 import static com.solodroid.ads.sdk.util.Constant.AD_STATUS_ON;
 import static com.solodroid.ads.sdk.util.Constant.ALIEN;
 import static com.solodroid.ads.sdk.util.Constant.ALIEN_ADS;
-import static com.solodroid.ads.sdk.util.Constant.FACEBOOK;
-import static com.solodroid.ads.sdk.util.Constant.FAN;
 import static com.solodroid.ads.sdk.util.Constant.FAN_BIDDING_ADMOB;
 import static com.solodroid.ads.sdk.util.Constant.FAN_BIDDING_AD_MANAGER;
 import static com.solodroid.ads.sdk.util.Constant.GOOGLE_AD_MANAGER;
@@ -19,8 +17,6 @@ import androidx.annotation.NonNull;
 
 import com.google.android.gms.ads.FullScreenContentCallback;
 import com.google.android.gms.ads.LoadAdError;
-import com.google.android.gms.ads.OnUserEarnedRewardListener;
-import com.google.android.gms.ads.rewarded.RewardItem;
 import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
 import com.props.adsmanager.PropsAdsManagement;
 import com.solodroid.ads.sdk.util.OnRewardedAdCompleteListener;

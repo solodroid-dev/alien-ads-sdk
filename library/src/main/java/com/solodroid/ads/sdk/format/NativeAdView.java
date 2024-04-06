@@ -4,8 +4,6 @@ import static com.solodroid.ads.sdk.util.Constant.ADMOB;
 import static com.solodroid.ads.sdk.util.Constant.AD_STATUS_ON;
 import static com.solodroid.ads.sdk.util.Constant.ALIEN;
 import static com.solodroid.ads.sdk.util.Constant.ALIEN_ADS;
-import static com.solodroid.ads.sdk.util.Constant.FACEBOOK;
-import static com.solodroid.ads.sdk.util.Constant.FAN;
 import static com.solodroid.ads.sdk.util.Constant.FAN_BIDDING_ADMOB;
 import static com.solodroid.ads.sdk.util.Constant.FAN_BIDDING_AD_MANAGER;
 import static com.solodroid.ads.sdk.util.Constant.GOOGLE_AD_MANAGER;
@@ -13,7 +11,6 @@ import static com.solodroid.ads.sdk.util.Constant.GOOGLE_AD_MANAGER;
 import android.app.Activity;
 import android.graphics.drawable.ColorDrawable;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -41,9 +38,6 @@ import com.solodroid.ads.sdk.util.Constant;
 import com.solodroid.ads.sdk.util.NativeTemplateStyle;
 import com.solodroid.ads.sdk.util.TemplateView;
 import com.solodroid.ads.sdk.util.Tools;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class NativeAdView {
 

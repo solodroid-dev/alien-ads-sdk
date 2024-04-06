@@ -2,14 +2,7 @@ package com.solodroid.ads.sdkdemo.activity;
 
 import static com.solodroid.ads.sdk.util.Constant.ADMOB;
 import static com.solodroid.ads.sdk.util.Constant.ALIEN_ADS;
-import static com.solodroid.ads.sdk.util.Constant.APPLOVIN_DISCOVERY;
-import static com.solodroid.ads.sdk.util.Constant.APPLOVIN_MAX;
-import static com.solodroid.ads.sdk.util.Constant.FAN;
 import static com.solodroid.ads.sdk.util.Constant.GOOGLE_AD_MANAGER;
-import static com.solodroid.ads.sdk.util.Constant.IRONSOURCE;
-import static com.solodroid.ads.sdk.util.Constant.STARTAPP;
-import static com.solodroid.ads.sdk.util.Constant.UNITY;
-import static com.solodroid.ads.sdk.util.Constant.WORTISE;
 import static com.solodroid.ads.sdkdemo.data.Constant.STYLE_DEFAULT;
 import static com.solodroid.ads.sdkdemo.data.Constant.STYLE_NEWS;
 import static com.solodroid.ads.sdkdemo.data.Constant.STYLE_RADIO;
